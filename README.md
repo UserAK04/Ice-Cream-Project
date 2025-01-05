@@ -1,2 +1,2 @@
 # Ice-Cream-Project
-Website for My Ice-Cream Brand  
+Website for My Ice-Cream Shop
